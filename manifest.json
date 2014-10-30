@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "css": [ "greader.css" ],
+      "js": [ "greader.js" ],
+      "matches": [ "*://www.feedly.com/*", "*://*.feedly.com/*", "*://feedly.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Turn Feedly into a Google Reader clone.",
+   "homepage_url": "http://ramon82.com",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "GGReader",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "10.0"
+}
