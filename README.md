@@ -3,7 +3,7 @@
 ## A user script that turns Feedly into a Google Reader clone.
 
 ### Why?
-Google announced that they will discontinue Google Reader on July 1st 2013. I went outside to find an alternative, then I found Feedly.
+Google discontinued Google Reader on July 1st 2013. I went outside to find an alternative, then I found Feedly.
 
 Feedly is good service that has everything I need, including mobile versions, social tools and more. But yeah, their interface is not that clean as Google Reader, that's why I made GGReader.
 
