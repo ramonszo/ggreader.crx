@@ -1,7 +1,8 @@
 [![GGReader](https://raw.githubusercontent.com/ramon82/ggreader.crx/master/logo.png)](https://ramon.codes/projects/ggreader.crx)
 ===
-[![GGReader Preview](https://raw.githubusercontent.com/ramon82/ggreader.crx/master/preview.png)](https://ramon.codes/projects/ggreader.crx)
 ## A user script that turns Feedly into a Google Reader clone.
+
+[![GGReader Preview](https://raw.githubusercontent.com/ramon82/ggreader.crx/master/preview.png)](https://ramon.codes/projects/ggreader.crx)
 
 ### Why?
 Google discontinued Google Reader on July 1st 2013. I went outside to find an alternative, then I found Feedly.
