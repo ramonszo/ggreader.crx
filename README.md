@@ -1,4 +1,3 @@
-[![GGReader](https://raw.githubusercontent.com/ramon82/ggreader.crx/master/logo.png)](https://ramon.codes/projects/ggreader.crx)
 [![GGReader Preview](https://raw.githubusercontent.com/ramon82/ggreader.crx/master/preview.png)](https://ramon.codes/projects/ggreader.crx)
 
 ## A user script that turns Feedly into a Google Reader clone.
@@ -8,7 +7,7 @@ Feedly is good service that has everything I need, including mobile versions, so
 
 
 ## Discontinuing GGReader
-Since Feedly became the major RSS reader, most people (me included) don't miss Google Reader anymore, so I decided to end the extension support. 
+Since Feedly became the major RSS reader, I decided to end the extension support. 
 
 If you still miss Google Reader, feel free to create a fork! :)
 
