@@ -20,6 +20,14 @@ I don't know why this extension get so many downloads (thank you!), but I think 
 - [AddictiveTips](http://www.addictivetips.com/web/get-google-reader-look-feel-in-feedly-with-this-theme/)
 - [WWWhatsnew](http://wwwhatsnew.com/2013/04/20/feedly-reader-viste-a-feedly-como-google-reader-con-esta-extension-para-chrome/)
 
-___
+---
 
+<a href="https://ramon82.com" target="_blank">
+  <img src="https://utils.ramon82.com/hit.svg?referrer=github.com&title=GitHub%20/%20ggreader.crx&location=https://github.com/ramon82/ggreader.crx" width="24" height="24" />
+</a>
+
+<p></p>
+
+<p>
 Not affiliated with Google Inc.
+</p>
