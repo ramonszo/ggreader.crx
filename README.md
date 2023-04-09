@@ -1,6 +1,6 @@
 # ggreader.crx
 
-[![GGReader Preview](https://raw.githubusercontent.com/ramon82/ggreader.crx/master/preview.png)](https://ramon.codes/projects/ggreader.crx)
+[![GGReader Preview](https://raw.githubusercontent.com/ramonszo/ggreader.crx/master/preview.png)](https://ramon.codes/projects/ggreader.crx)
 
 ## A user script that turns Feedly into a Google Reader clone.
 Google discontinued Google Reader on July 1st 2013. I went outside to find an alternative, then I found Feedly.
@@ -22,8 +22,8 @@ I don't know why this extension get so many downloads (thank you!), but I think 
 
 ---
 
-<a href="https://ramon82.com" target="_blank">
-  <img src="https://utils.ramon82.com/hit.svg?referrer=github.com&title=GitHub%20/%20ggreader.crx&location=https://github.com/ramon82/ggreader.crx" width="24" height="24" />
+<a href="https://ramon.codes" target="_blank">
+  <img src="https://ws.ramon.codes/hit.svg?referrer=github.com&title=GitHub%20/%20ggreader.crx&location=https://github.com/ramonszo/ggreader.crx" width="24" height="24" />
 </a>
 
 <p></p>
